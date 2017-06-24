@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">World Bank Indicators</string>
+    <string name="action_about">About</string>
+    <string name="page_indicators">World Bank Indicators</string>
+    <string name="page_webview">Webview</string>
+    <string name="page_about">About this app</string>
+    <string name="about_text">
+        "World Development Indicators includes data spanning up to 56 years—from 1960 to 2016. "
+        "World view frames global trends with indicators on population, population density, "
+        "urbanization, GNI, and GDP. As in previous years, the World view online tables present "
+        "indicators measuring the world’s economy and progress toward improving lives, achieving "
+        "sustainable development, providing support for vulnerable populations, and reducing gender "
+        "disparities. Data on poverty and shared prosperity are now in a separate section, while "
+        "highlights of progress toward the Sustainable Development Goals are now presented in the "
+        "companion publication, Atlas of Sustainable Development Goals 2017.\n\n"
+
+        "This app lists a selected set of World Bank Indicators and gives reference to online resources "
+        "where each indicator can be broken down further into useful statistical information."
+
+          </string>
+</resources>
